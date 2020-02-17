@@ -1,5 +1,5 @@
 # Recommendation-System
-Movie Recoomendation Sys(Content Based)
+Movie Recommendation Sys(Content Based)
 
 A recommendation engine, also known as a recommender system, 
 is software that analyzes available data to make suggestions for something that a user might be interested in.
